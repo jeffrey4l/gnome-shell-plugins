@@ -1,0 +1,9 @@
+
+.nano-label {
+    font-size: 700%;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(10,10,10,0.9);
+    padding-left: .3em;
+    padding-right: .3em;
+}

@@ -1,0 +1,46 @@
+/* Journal */
+
+.journal-item {
+    /* copied from app-well-app */
+    border-radius: 4px;
+    spacing: 6px;
+    padding: 3px;
+    border: 6px
+    font-size: 7.5pt;
+    color: white;
+    transition-duration: 100;
+    text-align: center;
+}
+
+.journal-item .overview-icon {
+    icon-size: 96px;
+}
+
+.journal-item:hover {
+    background-color: rgba(255,255,255,0.1);
+    text-shadow: black 0px 2px 2px;
+    transition-duration: 100;
+}
+
+/* same as journal-item:hover, for multi-selection */
+.journal-item-selection {
+    background-color: rgba(255,255,255,0.1);
+    text-shadow: black 0px 2px 2px;
+    transition-duration: 100;
+}
+
+.journal-heading {
+    padding: 1px 1px 6px 6px;
+    spacing: 4px;
+    color: #6f6f6f;
+    font-size: .8em;
+}
+
+.journal-heading:hover {
+    color: #fff;
+}
+
+.journal-heading-box {
+    padding: 9px 0px 4px 0px;
+}
+
