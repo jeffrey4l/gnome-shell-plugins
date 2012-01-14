@@ -1,3 +1,6 @@
 [submodule "connectionmanager@ciancio.net"]
 	path = connectionmanager@ciancio.net
 	url = https://github.com/sciancio/connectionmanager.git
+[submodule "gcalc-search@wrowclif.org"]
+	path = gcalc-search@wrowclif.org
+	url = https://github.com/war1025/GCalcSearch.git
