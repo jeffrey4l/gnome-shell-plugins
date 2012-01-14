@@ -1,0 +1,3 @@
+[submodule "connectionmanager@ciancio.net"]
+	path = connectionmanager@ciancio.net
+	url = https://github.com/sciancio/connectionmanager.git
